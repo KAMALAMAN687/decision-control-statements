@@ -8,7 +8,8 @@ int main()
     {
         printf("valid triangle");
     }
-    else{
+    else
+    {
         printf("not valid triangle");
     }
     return 0;
